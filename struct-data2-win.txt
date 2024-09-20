@@ -1,0 +1,6 @@
+0;Quentin Tarantino
+1;Martin Scorsesse
+2;Hayao Miyazaki
+3;Steven Spielberg
+4;Cristopher Nolan
+5;Greta Gerwig
